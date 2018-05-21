@@ -7,6 +7,7 @@ public class pruebaPractica6 {
 		Lamparita lamp1= new Lamparita();
 		System.out.println("Está"+lamp1.getEstado().toString());
 		lamp1.encender();
+		
 	}
 
 }

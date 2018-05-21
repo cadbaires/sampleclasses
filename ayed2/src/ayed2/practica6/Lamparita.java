@@ -10,7 +10,7 @@ public class Lamparita {
   }
   
   public void encender(){
-	  estado= EstadoLampara.ENCENDIDA;
+	  estado = EstadoLampara.ENCENDIDA;
   };
   
   public void apagar(){
